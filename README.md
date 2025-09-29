@@ -1,7 +1,6 @@
+![Uploading Screenshot 2025-09-29 102115.png…]()
+<img width="905" height="418" alt="Screenshot 2025-09-29 102136" src="https://github.com/user-attachments/assets/dac019d1-2a46-49b2-af0b-5db487797441" />
 
-<a href="https://youtu.be/moRqo158NGc?si=DAIbiOkKnHknEQVJ" target="_blank">
-  <img src="thumbnail.png" alt="Thumbnail"/>
-</a>
 
 
 ---
@@ -11,7 +10,3 @@
 
 
 ---
-## Watch the full tutorial on YouTub
-<a href="https://youtu.be/moRqo158NGc?si=DAIbiOkKnHknEQVJ">
-  <img src="youtube.png" alt="youtube"/>
-</a>
