@@ -1,12 +1,13 @@
-![Uploading Screenshot 2025-09-29 102115.png…]()
+<img width="905" height="418" alt="Screenshot 2025-09-29 102115" src="https://github.com/user-attachments/assets/ba3e1cb4-95d3-4681-9aeb-2f2cad3c1e2e" />
+
 <img width="905" height="418" alt="Screenshot 2025-09-29 102136" src="https://github.com/user-attachments/assets/dac019d1-2a46-49b2-af0b-5db487797441" />
 
 
 
----
-#### I’m a Software Engineering student at Iqra University with a strong passion for Artificial Intelligence, Machine Learning, and Emerging Technologies. Inspired by the film Snowden, I started my journey to create innovative solutions that bridge technology with real-world challenges. 🌟
-#### From building AutoApplyPro – an AI-powered job-seeking application – to exploring AR/VR, intelligent systems, and research collaborations, my mission is to design impactful software that’s modern, smart, and future-ready. 💡
-#### Whether it’s AI projects, system design, or creative portfolio work, I strive to blend technical expertise with creativity to deliver solutions that inspire. ✨
+I’m Abdul Tayab, a passionate Software Engineering student at Iqra University, Karachi, with a strong focus on Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
+Inspired by technology’s power to solve real-world problems, I developed AutoApplyPro, an AI-driven job-seeking platform that automates job searching and application processes. Beyond this, I’ve worked on projects in operating systems, blockchain, and process management, showcasing both my technical depth and ability to explain complex concepts simply.
 
----
+I bring expertise in Java, Python, React, and ML pipelines, along with hands-on experience in system design, database management, and scalable application development. My goal is to innovate solutions that bridge the gap between automation and human efficiency.
+
+Alongside technical growth, I’m actively exploring research collaborations and preparing publications to contribute to global discussions in AI and emerging technologies.
